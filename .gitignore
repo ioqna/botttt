@@ -4,7 +4,7 @@ from discord import app_commands
 from datetime import timedelta
 
 # Replace with your bot token
-TOKEN = 'MTM1MDMxNDk4NjE4MjAyMTIyMQ.GSR_0U.VRcjoi1ZGB3_kDj58ESL0pKuSa50qoT6vQoTUU'
+TOKEN = ''
 
 # Define intents
 intents = discord.Intents.default()
